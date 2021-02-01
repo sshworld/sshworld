@@ -20,9 +20,7 @@
 
 동서대학교 소프트웨어중심대학 사업단에서 진행하는 스마일리지 점수 제도 관리를 위한 스마일리지 관리 시스템을 개발하였습니다.
 
-[![Google Play](https://img.shields.io/badge/Google%20Play-414141?style-flat-square&logo=Google%20Play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dongseo.book&hl=ko)
-
-[![App Store](https://img.shields.io/badge/App%20Store-0d96f6?style-flat-square&logo=App%20Store&logoColor=white)](https://apps.apple.com/au/app/%EC%8A%A4%EB%A7%88%EC%9D%BC%EB%A6%AC%EC%A7%80/id1534837473)
+[![Google Play](https://img.shields.io/badge/Google%20Play-414141?style-flat-square&logo=Google%20Play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dongseo.book&hl=ko) [![App Store](https://img.shields.io/badge/App%20Store-0d96f6?style-flat-square&logo=App%20Store&logoColor=white)](https://apps.apple.com/au/app/%EC%8A%A4%EB%A7%88%EC%9D%BC%EB%A6%AC%EC%A7%80/id1534837473)
 
 에서 Node Express.js로 Server API를 개발하였습니다.
 
