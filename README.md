@@ -8,15 +8,28 @@
 
 저는 Java와 Javascript를 주로 다룹니다. 백엔드 공부를 주로 하고있으며 최근에 프론트엔드에 관심이 있습니다.
 
+
 * [node.js]
-* [spring JPA]
+* [spring JPA] - 🌱 I’m currently learning ...
 * [Html/Css/Js]
-* [React-Native]
+* [React-Native] - 🌱 I’m currently learning ...
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sshworld&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Development
+
+동서대학교 소프트웨어중심대학 사업단에서 진행하는 스마일리지 점수 제도 관리를 위한 스마일리지 관리 시스템을 개발하였습니다.
+
+[구글 플레이 스토어]
+https://play.google.com/store/apps/details?id=com.dongseo.book&hl=ko
+
+[앱스토어]
+https://apps.apple.com/au/app/%EC%8A%A4%EB%A7%88%EC%9D%BC%EB%A6%AC%EC%A7%80/id1534837473
+
+에서 Node Express.js로 Server API를 개발하였습니다.
 
 <!--
 **sshworld/sshworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
