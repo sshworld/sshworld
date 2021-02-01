@@ -20,7 +20,7 @@
 
 동서대학교 소프트웨어중심대학 사업단에서 진행하는 스마일리지 점수 제도 관리를 위한 스마일리지 관리 시스템을 개발하였습니다.
 
-[구글 플레이 스토어]
+[![Google Play](https://img.shields.io/badge/Play-Store-414141?style-flat-square&logo=GooglePlayStore&logoColor=white
 https://play.google.com/store/apps/details?id=com.dongseo.book&hl=ko
 
 [앱스토어]
