@@ -9,9 +9,9 @@
 저는 Java와 Javascript를 주로 다룹니다. 백엔드 공부를 주로 하고있으며 최근에 프론트엔드에 관심이 있습니다.
 
 * [node.js]
-* [spring JPA] - 🌱 I’m currently learning ...
 * [Html/Css/Js]
 * [Android Studio]
+* [spring JPA] - 🌱 I’m currently learning ...
 * [React-Native] - 🌱 I’m currently learning ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sshworld&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
