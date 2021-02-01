@@ -4,6 +4,8 @@
 
 [![Instagram Badge] (https://img.shields.io/badge/-e4405f?style-flat-square&logo=Instagram&logoColor=white)(https://instagram.com/ssh._.world)
 
+https://img.shields.io/badge/-e4405f?style-flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ssh._.world
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sshworld)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sshworld&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
