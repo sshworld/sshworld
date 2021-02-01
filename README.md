@@ -22,7 +22,7 @@
 
 [![Google Play](https://img.shields.io/badge/Google Play-414141?style-flat-square&logo=Google Play&logoColor=white)](https://play.google.com/store/apps/details?id=com.dongseo.book&hl=ko)
 
-[![App Store](https://img.shields.io/badge/App%20Store-0d96f6?style-flat-square&logo=App%20Store&logoColor=white)(https://apps.apple.com/au/app/%EC%8A%A4%EB%A7%88%EC%9D%BC%EB%A6%AC%EC%A7%80/id1534837473)
+[![App Store](https://img.shields.io/badge/App%20Store-0d96f6?style-flat-square&logo=App%20Store&logoColor=white)](https://apps.apple.com/au/app/%EC%8A%A4%EB%A7%88%EC%9D%BC%EB%A6%AC%EC%A7%80/id1534837473)
 
 에서 Node Express.js로 Server API를 개발하였습니다.
 
