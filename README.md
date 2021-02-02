@@ -6,7 +6,7 @@
 
 ### Tech
 
-저는 Java와 Javascript를 주로 다룹니다. 백엔드 공부를 주로 하고있으며 최근에 프론트엔드에 관심이 있습니다.
+저는 Java와 Javascript를 주로 다룹니다. 백엔드 공부를 주로 하고있으며 최근에 풀스택 에 관심이 있습니다.
 
 * [node.js]
 * [Html/Css/Js]
