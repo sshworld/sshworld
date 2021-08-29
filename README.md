@@ -11,7 +11,9 @@
 * [node.js]
 * [Html/Css/Js]
 * [Android Studio]
-* [spring JPA] - 🌱 I’m currently learning ...
+* [spring Mybatis]
+* [spring JPA]
+* [node.js Sequelize] - 🌱 I’m currently learning ...
 * [React-Native] - 🌱 I’m currently learning ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sshworld&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
